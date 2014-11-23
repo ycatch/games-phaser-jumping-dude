@@ -26,6 +26,8 @@ This software is released under the MIT License. Please see License or  http://o
 Origin
 ------
 
+http://www.photonstorm.com/phaser/tutorial-making-your-first-phaser-game
+
 Copyright 2006 - 2014 Photon Storm Ltd. All rights reserved.
 
 Copyright 2014 Richard Davey, Photon Storm Ltd.
