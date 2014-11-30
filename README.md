@@ -20,17 +20,25 @@ License
 
 Copyright 2014 Yutaka Kachi
 
-This software is released under the MIT License. Please see License or  http://opensource.org/licenses/mit-license.php
+This software is released under the MIT License. 
+
+Please see License or http://opensource.org/licenses/mit-license.php
+
+
+Tutorial
+-------
+
+http://www.catch.jp/wiki/?phaser%2Ftutorial_02
 
 
 Origin
 ------
 
-http://www.photonstorm.com/phaser/tutorial-making-your-first-phaser-game
-
 Copyright 2006 - 2014 Photon Storm Ltd. All rights reserved.
 
 Copyright 2014 Richard Davey, Photon Storm Ltd.
+
+http://www.photonstorm.com/phaser/tutorial-making-your-first-phaser-game
 
 
 Library
@@ -44,7 +52,11 @@ Phaser http://phaser.io/
 Sounds
 --------
 
-Copyright PANICPUMPKIN  http://pansound.com/panicpumpkin/
+Copyright PANICPUMPKIN
 
-Copyright Taira Komori  http://taira-komori.jpn.org/
+http://pansound.com/panicpumpkin/
+
+Copyright Taira Komori
+
+http://taira-komori.jpn.org/
 
