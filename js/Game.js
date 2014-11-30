@@ -206,7 +206,7 @@ BasicGame.Game.prototype = {
 		// Removes the star from the screen
 		star.kill();
 		this.getSound.play();
-		this.makeStar(Math.random() * 12 * 56);
+		this.makeStar(Math.floor(Math.random() * 12) * 56);
 
 		//  Add and update the score
 		this._score += 10;
